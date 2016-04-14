@@ -7,4 +7,4 @@
 /spec/reports/
 /tmp/
 Gemfile.lock
-drumpf-0.1.0.gem
+drumpf-*.gem
