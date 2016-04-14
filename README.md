@@ -1,6 +1,6 @@
 # Drumpf
 
-A Donald Trump saying generator.
+Stuff Donald says.
 
 [![Gem Version](http://img.shields.io/gem/v/drumpf.svg?style=flat)](https://rubygems.org/gems/unitwise)
 [![Build Status](http://img.shields.io/travis/MemphisRuby/drumpf.svg?style=flat)](https://travis-ci.org/joshwlewis/unitwise)
