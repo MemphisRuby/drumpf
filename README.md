@@ -1,4 +1,8 @@
 # Drumpf
+
+[![Gem Version](http://img.shields.io/gem/v/drumpf.svg?style=flat)](https://rubygems.org/gems/unitwise)
+[![Build Status](http://img.shields.io/travis/MemphisRuby/drumpf.svg?style=flat)](https://travis-ci.org/joshwlewis/unitwise)
+
 ```
 MMMMMMMMMMMMMMMNMMMMDDNNOZ8D+7DOZOZIZ7O87$7=I===DMMNNMMMMMMM
 MMMMMMMMMMMMMMMMD8DODOD8OD8D8IODI7ZIZ$O7ZZ?Z?:~::==NNMMMMMMM
@@ -46,9 +50,6 @@ MMMMMMMMMMMMN,,,,:::::,,7DNNMMM$NM?$Z,,,,~MMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMM,,,,,,:,,~::IDDNMDD,,,+Z,,,,MMMMMMMMMMMMMMMMMM
 ```
 Stuff Donald says.
-
-[![Gem Version](http://img.shields.io/gem/v/drumpf.svg?style=flat)](https://rubygems.org/gems/unitwise)
-[![Build Status](http://img.shields.io/travis/MemphisRuby/drumpf.svg?style=flat)](https://travis-ci.org/joshwlewis/unitwise)
 
 ## Installation
 
