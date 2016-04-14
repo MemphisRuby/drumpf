@@ -20,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+require 'drumpf'
+
+Drumpf.be_offensive
+Drumpf.be_presidential
+Drumpf.give_hope
+Drumpf.lie
+Drumpf.repeat_yourself
+```
 
 ## Development
 
@@ -30,5 +38,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/drumpf.
+Bug reports and pull requests are welcome on GitHub at https://github.com/MemphisRuby/drumpf.
 
