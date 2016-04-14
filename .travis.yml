@@ -8,6 +8,8 @@ rvm:
   - 2.3
   - ruby-head
   - rbx-2
+before_install:
+  - gem install bundler
 matrix:
   allow_failures:
     - rvm: ruby-head
