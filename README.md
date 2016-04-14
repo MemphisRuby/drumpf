@@ -24,8 +24,7 @@ Or install it yourself as:
 require 'drumpf'
 
 Drumpf.be_offensive
-Drumpf.be_presidential
-Drumpf.give_hope
+Drumpf.promise
 Drumpf.lie
 Drumpf.repeat_yourself
 ```
