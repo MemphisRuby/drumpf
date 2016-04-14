@@ -1,6 +1,6 @@
 # Drumpf
 
-A Donald Trump saying generator.
+Stuff Donald says.
 
 ## Installation
 
